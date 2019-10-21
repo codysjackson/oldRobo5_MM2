@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+External_Libraries
+MicroManager-HTS-Plugin.iml
+*.xml
+*.idea
+*.iml
+test
+out
+/out/
+/External_Libraries/
+/.idea/
+/src/logback.xml
+/test/
+/MicroManager-HTS-Plugin.iml
